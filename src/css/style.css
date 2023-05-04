@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Coda+Caption:wght@800&family=Norican&family=PT+Sans&display=swap');
+
+:root {
+    --default_font--size: 1em;
+    --nav_font--size: 1.5em;
+
+    --title_nav--font: 'Norican', cursive;
+    --title--font: 'Coda Caption', sans-serif;
+    --text--font: 'PT Sans', sans-serif;
+
+    --orange--color: #d9a017;
+    --white--color: #fff;
+    --blue--color: #00738d;
+}
+
