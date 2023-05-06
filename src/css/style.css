@@ -95,3 +95,17 @@ header div h1 span:nth-child(2) {
     font-size: 2.5em;
     color: var(--white--color);
 }
+
+main {
+    width: 100%;
+    height: auto;
+    background-color: var(--blue--color);
+}
+
+.main--wrapper {
+    padding: 5%;
+}
+
+hr {
+    color: var(--white--color);
+}
